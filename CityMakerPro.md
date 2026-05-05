@@ -262,7 +262,7 @@ res:/
 
 | Feature | Free Version | PRO Version |
 |---------|--------------|-------------|
-| **Models included** | 0 (user provides) | **165+** (ready to use) |
+| **Models included** |14 Models | **165+** (ready to use) |
 | **Grid size** | 20x20 max | 40x40 recommended (100x100 max) |
 | **Building placement** | Random 2x2 only | District-based (CIVIC/COMMERCIAL/RESIDENTIAL) |
 | **Traffic lights** | ❌ | ✅ |
